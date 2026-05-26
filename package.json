@@ -168,7 +168,7 @@
   "devDependencies": {
     "@jsumners/line-reporter": "^1.0.1",
     "@sinclair/typebox": "^0.34.13",
-    "@sinonjs/fake-timers": "^11.2.2",
+    "@sinonjs/fake-timers": "^15.4.0",
     "@stylistic/eslint-plugin": "^5.1.0",
     "@stylistic/eslint-plugin-js": "^4.1.0",
     "@types/node": "^25.0.3",
